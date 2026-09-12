@@ -8,10 +8,16 @@ Kimmy Score is a method that will allow the Arcade1up Dragon's Lair Scoreboard t
 # How to get scoreboard ready for PC communications 
 
 This will require modification of your scoreboard *DO AT YOUR OWN RISK*
+
 You will need a CP2102 USB to TTL Module Serial Converter Adapter
+
 The yellow wire of the scoreboard RX will need to be connected to the TX of the CP2102
+
 The black wire (ground) will need to be connected as well
+
 DO NOT USE the 5v from the CP2102 to power the scoreboard a separate 5v power supply is recommended for the scoreboard itself
+
+When connecting power use the red wire from the scoreboard and connect the black wire (ground) as well having it still connected to the ground of the CP2102
 
 # Programs required
 
@@ -19,7 +25,7 @@ You will need com0com installed to create a virtual pair of com ports for the sc
 
 Once com0com is configured run the kimmyscore.py script and launch Hypseus with settings for usbscoreboard communication
 
-The script will have the cp2102 set as com3 and Hypseus should be configured to use com4
+The script will have the CP2102 set as com3 and Hypseus should be configured to use com4
 
 Scoreboard should begin working once Hypseus begins sending data
 
