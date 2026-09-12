@@ -29,4 +29,12 @@ The script will have the CP2102 set as com3 and Hypseus should be configured to 
 
 Scoreboard should begin working once Hypseus begins sending data
 
+# Hypseus requirements
 
+Dragon's Lair or Space Ace configured (SPACE ACE FTW)
+
+Ensure that you have Hypseus lauching with -usbscoreboard COM 4 19200
+
+ie. "C:\Hypseus Singe\hypseus.exe" ace vldp -framefile "C:\Daphne\vldp_dl\ace\ace.txt" -usbscoreboard COM 4 19200
+
+Enjoy!
