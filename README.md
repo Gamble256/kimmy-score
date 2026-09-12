@@ -21,7 +21,7 @@ When connecting power use the red wire from the scoreboard and connect the black
 
 # Programs required
 
-You will need com0com installed to create a virtual pair of com ports for the script and Hypseus to interact with each other 
+You will need [com0com](https://sourceforge.net/projects/com0com/) installed to create a virtual pair of com ports for the script and Hypseus to interact with each other 
 
 Once com0com is configured run the kimmyscore.py script and launch Hypseus with settings for usbscoreboard communication
 
