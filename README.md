@@ -1,4 +1,4 @@
-<img width="1172" height="1342" alt="kimmyscore" src="https://github.com/user-attachments/assets/8a034068-da7f-47bb-af10-423387b0e5ea" />
+<img width="800" height="600" alt="kimmyscore" src="https://github.com/user-attachments/assets/8a034068-da7f-47bb-af10-423387b0e5ea" />
 
 
 # kimmy-score
