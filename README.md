@@ -19,6 +19,8 @@ You will need com0com installed to create a virtual pair of com ports for the sc
 
 Once com0com is configured run the kimmyscore.py script and launch Hypseus with settings for usbscoreboard communication
 
+The script will have the cp2102 set as com3 and Hypseus should be configured to use com4
+
 Scoreboard should begin working once Hypseus begins sending data
 
 
