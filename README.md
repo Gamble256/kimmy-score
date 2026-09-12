@@ -33,7 +33,7 @@ Scoreboard should begin working once Hypseus begins sending data
 
 Dragon's Lair or Space Ace configured (SPACE ACE FTW)
 
-Ensure that you have Hypseus lauching with -usbscoreboard COM 4 19200
+Ensure that you have Hypseus lauching with `-usbscoreboard COM 4 19200`
 
 `"C:\Hypseus Singe\hypseus.exe" ace vldp -framefile "C:\Daphne\vldp_dl\ace\ace.txt" -usbscoreboard COM 4 19200`
 
