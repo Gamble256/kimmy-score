@@ -18,6 +18,7 @@ DO NOT USE the 5v from the CP2102 to power the scoreboard a separate 5v power su
 You will need com0com installed to create a virtual pair of com ports for the script and Hypseus to interact with each other 
 
 Once com0com is configured run the kimmyscore.py script and launch Hypseus with settings for usbscoreboard communication
+
 Scoreboard should begin working once Hypseus begins sending data
 
 
