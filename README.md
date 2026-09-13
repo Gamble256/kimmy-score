@@ -56,3 +56,9 @@ Ensure that you have Hypseus lauching with `-usbscoreboard COM 4 19200`
 `"C:\Hypseus Singe\hypseus.exe" ace vldp -framefile "C:\Daphne\vldp_dl\ace\ace.txt" -usbscoreboard COM 4 19200`
 
 Enjoy!
+
+# AI Disclosure
+
+The python script was created with the help of AI
+
+If you are not comfortable with the use of AI then this project is not for you
