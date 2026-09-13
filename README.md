@@ -31,7 +31,7 @@ DO NOT POWER FROM CP2102 use an external 5 volt power source as shown.
 
 The `Brown` wire TX is on the scoreboard is not used.
 
-The `Black' wire (ground) should be connected to the scoreboard as shown along with power sources ground wire being tied into as well.
+The `Black` wire (ground) should be connected to the scoreboard as shown along with power sources ground wire being tied into as well.
 
 5v is only assumed to be the correct voltage at this point until confirmed from original PCB
 
