@@ -23,13 +23,19 @@ When connecting power use the red wire from the scoreboard and connect the black
 
 This is how the scoreboard should be wired to the CP2102 and power supply.
 
-(Working on corrected schematics visual)
+<img width="1018" height="971" alt="wiringschematic" src="https://github.com/user-attachments/assets/a28410dc-7f0f-4861-b452-ee39486d5890" />
 
 The TX of the CP2102 should be connected to the `Yellow` wire of the scoreboard `RX`.
 
 DO NOT POWER FROM CP2102 use an external 5 volt power source as shown.
 
 The `Brown` wire TX is on the scoreboard is not used.
+
+The `Black' wire (ground) should be connected to the scoreboard as shown along with power sources ground wire being tied into as well.
+
+5v is only assumed to be the correct voltage at this point until confirmed from original PCB
+
+*MOD AT YOUR OWN RISK*
 
 # Programs required
 
